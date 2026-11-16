@@ -1,0 +1,7 @@
+Stockfish.js 19.0.1, full single-threaded WebAssembly build
+NPM package: https://www.npmjs.com/package/stockfish/v/19.0.1
+Upstream source and tagged release: https://github.com/nmrugg/stockfish.js/tree/v19.0.1
+The upstream project states that this browser build was written for Chess.com's in-browser engine.
+
+The engine is GPL-3.0-or-later. License text: COPYING.txt.
+This independent chess interface is not affiliated with Chess.com.
